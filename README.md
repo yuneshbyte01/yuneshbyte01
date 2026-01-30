@@ -1,79 +1,91 @@
-<h1 align="center">Hi, I'm Yunesh Timsina</h1>
+<div align="center">
+
+<h1 align="center">Hi, I'm Yunesh Timsina 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Clean+Architecture+%26+Scalable+Systems;Backend+%26+Data+Workflow+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Clean+Architecture+%26+Scalable+Systems" alt="Typing Animation" />
 </p>
+
+<i>Learning by building clean, practical backend systems 🚀</i>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/yunesh-timsina">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yuneshtimsina@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/yunesh.timsina">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-I’m a backend-focused developer who enjoys building reliable, secure, and well-structured server-side systems.  
-My work revolves around Java, Spring Boot, RESTful API design, authentication flows, and relational databases.  
-I value clean architecture, maintainable code, and simple solutions to complex problems.
+- 💻 Java backend developer focused on **Spring Boot**
+- 🔗 Building **REST APIs** with clean structure
+- 🔐 Learning authentication & security basics
+- 🧠 Exploring how to design scalable backend systems
+- 🌐 Learning **Angular** for full-stack understanding
+- 🤝 Open to real-world projects & open-source contributions
 
-I’m also interested in how data moves through systems — through APIs, services, or ETL-style workflows — and how backend logic transforms and manages data effectively.
-
-I aim to write code that is understandable, scalable, and built on solid engineering fundamentals.
-
----
-
-## 🧰 Tech Stack  
-
-<p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-  <!-- IDE -->
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-
-</p>
+| 🎯 Focused on        | 🌱 Exploring              | 🆘 Help wanted                |
+|---------------------|---------------------------|-------------------------------|
+| Spring Boot & REST  | Spring Security           | DB & query performance        |
+| API design          | Intro to microservices    | Backend scaling basics        |
+| Angular             | Testing best practices    | Code reviews & mentorship     |
 
 ---
 
-## 📊 GitHub Stats  
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuneshbyte01&theme=tokyonight&hide_border=false" height="180px" />
-</p>
+**Backend & Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuneshbyte01&show_icons=true&theme=tokyonight&hide_border=false" height="180px" />
-</p>
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools**  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🌍 Connect With Me  
+## 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/yuneshbyte01"><img src="https://img.icons8.com/?size=80&id=62856&format=png" width="45"></a>
-  <a href="https://www.linkedin.com/in/yuneshtimsina"><img src="https://img.icons8.com/?size=80&id=108812&format=png" width="45"></a>
-  <a href="https://www.yuneshtimsina.com.np/"><img src="https://img.icons8.com/?size=80&id=13677&format=png" width="45"></a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuneshbyte01&theme=radical" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=yuneshbyte01&theme=radical" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuneshbyte01&theme=radical&layout=compact" />
+
+</div>
 
 ---
 
-## 👁️ Visitor Counter  
+### ✍️ Dev Quote
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yuneshbyte01/count.svg" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+---
+
+<div align="center">
+
+✨ *Open to collaboration, mentorship, and backend roles* ✨
+
+</div>
